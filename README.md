@@ -1,0 +1,2 @@
+# Point-Cloud-Generalization-A-Self-Supervised-Learning-Approach-using-Torque-Clustering
+Point cloud generalization has become a cornerstone  of modern 3D computer vision, yet challenges remain in achieving  robust generalization across categories. In this work, we propose  a hybrid pipeline that combines enhanced PointNet embeddings  with a novel Torque Clustering algorithm for unsupervised  representation learning.
